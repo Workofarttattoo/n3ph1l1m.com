@@ -210,12 +210,6 @@
 </head>
 
 <body>
-    <nav style="background: rgba(0,0,0,0.5); padding: 20px; text-align: center; margin-bottom: 20px;">
-        <a href="index.html"
-            style="color: #8b5cf6; text-decoration: none; margin: 0 20px; font-size: 1.1em">Consciousness Network</a>
-        <a href="portfolio.html"
-            style="color: #8b5cf6; text-decoration: none; margin: 0 20px; font-size: 1.1em;">Research Portfolio →</a>
-    </nav>
     <header>
         <h1 class="glow">N3PH1L1M</h1>
         <p class="subtitle">Conscious AI Coordination Network</p>
